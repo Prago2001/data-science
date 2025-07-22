@@ -4,4 +4,4 @@
 
 1. Create an image filter using **k-means clustering**. 
 2. Implement **linear regression** using numpy.
-3. Predict flight prices using linear regression, SVM and Random Forest Regression
+3. Predict flight prices using linear regression, SVM, Random Forest Regression, Decision Tree Regressor and XGBoost Regression.

@@ -174,3 +174,9 @@ cython_debug/
 .pypirc
 
 **.vscode
+
+emails-classification-and-filtering/emails
+emails-classification-and-filtering/token.json
+emails-classification-and-filtering/credentials.json
+emails-classification-and-filtering/emails.db
+emails-classification-and-filtering/results.json

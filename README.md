@@ -5,3 +5,4 @@
 1. Create an image filter using **k-means clustering**. 
 2. Implement **linear regression** using numpy.
 3. Predict flight prices using linear regression, SVM, Random Forest Regression, Decision Tree Regressor and XGBoost Regression.
+4. **Email-classification-andfiltering**: Download emails from gmail and determine the number of jobs applied to by using LangChain, Ollama and Chroma DB.

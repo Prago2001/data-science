@@ -80,4 +80,6 @@ class EigenFaces:
 
         # Best match: lowest residual
         best_subject: int = min(residuals, key=lambda x: x["Residual"])
-        return best_subject, pd.DataFrame(residuals)
+        return best_subject, pd.DataFrame(residuals).sort_values(
+            by=["Residual"], ignore_index=True
+        )
